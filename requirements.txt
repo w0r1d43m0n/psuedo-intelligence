@@ -1,0 +1,12 @@
+keyboard
+numpy
+openai
+openai_whisper
+Pillow
+pvporcupine
+pvrecorder
+PyAudio
+pydub
+pywin32
+sympy
+win11toast
