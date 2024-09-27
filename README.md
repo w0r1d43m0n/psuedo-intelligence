@@ -7,11 +7,8 @@ The Releases section comes with installers for `psuedo.exe`, but if you would pr
 ## Build Instructions
 ### Windows
 Download Python.  
-Install pyinstaller using the python package manager (pip).
-Run the build command from `BuildCommand.txt`.
-Run the executable in the dist folder (`psuedo.exe`).
-
-
-
+Install pyinstaller using the python package manager (pip).  
+Run the build command from `BuildCommand.txt`.  
+Run the executable in the dist folder (`psuedo.exe`).  
 
 Pull requests are welcome! Although I doubt anyone except me will ever read this.  
