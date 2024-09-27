@@ -8,6 +8,8 @@ import threading
 import os
 import sys
 
+apdpth = os.getenv('APPDATA')
+
 class MCode():
 	def play_intro(self):
 		chunk = 1024
